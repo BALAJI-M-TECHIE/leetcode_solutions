@@ -1,20 +1,52 @@
 class Solution {
     public String reverseWords(String s) {
-        String[] arr = s.split(" ");
-        StringBuffer sb = new StringBuffer();
-        for(int i =arr.length-1;i>=0;i--)
+        StringBuffer sb = new StringBuffer(s);
+        
+        int last_index = 0;
+        int i =0;
+
+        while(i<sb.length())
         {
-            sb.append(arr[i]);
-            if(i>0)
+            if(sb.charAt(i)==' ')
             {
-                 sb.append(" ");
+                int z_start = last_index;
+                int z_last = i-1;
+                while(z_start<z_last)
+                {
+                  char temp = sb.charAt(z_start);
+                  sb.setCharAt(z_start,sb.charAt(z_last));
+                  sb.setCharAt(z_last,temp);
+
+                  z_start++;
+                  z_last--;
+
+                }
+                last_index = i+1;
             }
-           
+
+            if(i==sb.length()-1)
+            {
+                 
+                int z_start = last_index;
+                int z_last =i;
+                while(z_start<z_last)
+                {
+                  char temp = sb.charAt(z_start);
+                  sb.setCharAt(z_start,sb.charAt(z_last));
+                  sb.setCharAt(z_last,temp);
+
+                  z_start++;
+                  z_last--;
+
+                }
+            
+            }
+            i++;
+            
+
         }
-
-
- return sb.reverse().toString();
-
+ 
+ return sb.toString();
         
     }
 }
