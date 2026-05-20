@@ -1,5 +1,62 @@
 class Solution {
     public void sortColors(int[] nums) {
+
+         int low =0;
+         int mid = 0; // used of tracking 
+         int high = nums.length -1;
+
+         while(mid<=high)
+         {
+            if(nums[mid] == 0)
+            {
+                // swap 
+                int temp = nums[low];
+                nums[low] = nums[mid];
+                nums[mid] = temp;
+
+                mid++;
+                low++;
+            }
+            else if(nums[mid] == 1)
+            {
+                mid++;
+            }
+            else
+            {
+                 // swap 
+                int temp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high] = temp;
+                high--;
+            }
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /*
+        BETTER APPROACH USING COUNTING OF 0,1,2
         int zeroCount = 0;
         int oneCount = 0;
        
@@ -31,6 +88,7 @@ class Solution {
             }
 
          }
+*/
 
 
         
