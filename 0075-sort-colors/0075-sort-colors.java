@@ -32,29 +32,6 @@ class Solution {
          }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         /*
         BETTER APPROACH USING COUNTING OF 0,1,2
         int zeroCount = 0;
