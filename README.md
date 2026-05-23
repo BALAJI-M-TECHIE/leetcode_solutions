@@ -54,6 +54,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
