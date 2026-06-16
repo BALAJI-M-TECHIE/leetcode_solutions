@@ -4,9 +4,9 @@ class Solution
     {
         int arr_size = grid.length;
         int[][] new_arr = new int[arr_size -2][arr_size-2];
-       int[] num = new int[(arr_size - 2 )*(arr_size - 2 )] ;
 
-       int e = 0;
+
+      
         for(int i =0;i<=arr_size - 3 ;i++)
         {
             for(int j =0 ; j<= arr_size - 3 ;j++)
@@ -22,20 +22,11 @@ class Solution
                        }
                     }
                 }
-                 num[e] = max;
-                        e++;
+                 new_arr[i][j] = max;
             }
         }
 
-        int z =0;
-        for(int i =0;i<arr_size-2;i++)
-        {
-            for(int j =0;j<arr_size-2;j++)
-            {
-               new_arr[i][j] = num[z]; 
-               z++;
-            }
-        }
+       
 
         return new_arr;
     }
