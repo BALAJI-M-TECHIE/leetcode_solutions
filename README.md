@@ -11,6 +11,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -30,6 +31,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Two Pointers
@@ -42,6 +44,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -94,4 +97,8 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
