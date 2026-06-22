@@ -37,7 +37,7 @@ class Solution
         for(int i =2;i*i<n;i++)
         {
              boolean result = true;
-            for(int j =2;j<i;j++)
+            for(int j =2;j*j<i;j++)
             {
                 if(i%j == 0)
                 {
