@@ -31,6 +31,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3945-digit-frequency-score/) | Easy |
@@ -54,6 +55,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
