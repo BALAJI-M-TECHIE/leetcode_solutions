@@ -68,6 +68,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -126,6 +127,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
