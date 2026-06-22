@@ -64,6 +64,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0007-reverse-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -117,4 +118,12 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
