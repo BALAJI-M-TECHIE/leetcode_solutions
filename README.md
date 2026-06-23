@@ -72,6 +72,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0371-sum-of-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1323-maximum-69-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2235-add-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -125,6 +126,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
