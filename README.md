@@ -74,6 +74,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [1323-maximum-69-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1518-water-bottles](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1518-water-bottles/) | Easy |
 | [2235-add-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -98,6 +99,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1518-water-bottles](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1518-water-bottles/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
