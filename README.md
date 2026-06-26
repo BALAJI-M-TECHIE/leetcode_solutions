@@ -80,6 +80,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 | [3945-digit-frequency-score](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3945-digit-frequency-score/) | Easy |
@@ -133,6 +134,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
