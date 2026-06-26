@@ -22,6 +22,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2373-largest-local-values-in-a-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3033-modify-the-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3033-modify-the-matrix/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -76,6 +77,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2235-add-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
@@ -128,6 +130,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
