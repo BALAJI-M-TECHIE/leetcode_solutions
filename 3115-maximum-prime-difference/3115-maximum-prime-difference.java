@@ -5,7 +5,7 @@ class Solution {
         int j = nums.length-1;
         int ii =0;
         int jj = 0;
-        while(ii==0|| jj ==0 && i<=j)
+        while(ii==0|| jj ==0)
         {
             if(!isPrime(nums[i]))
             {
