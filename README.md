@@ -36,6 +36,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -55,6 +56,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -98,6 +100,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0058-length-of-last-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
