@@ -8,6 +8,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
@@ -35,6 +36,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -55,6 +57,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -100,6 +103,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
