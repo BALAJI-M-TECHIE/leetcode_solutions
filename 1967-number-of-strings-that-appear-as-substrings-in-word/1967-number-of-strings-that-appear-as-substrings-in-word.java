@@ -3,7 +3,7 @@ class Solution {
 
 
 /// BRUTE APPROACH : STOARE ALL THE SUBSTRINGS AND THEN CKECK AND COUNTS: 
-        String[] arr = new String[(word.length()*(word.length()+1))/2];
+    /*    String[] arr = new String[(word.length()*(word.length()+1))/2];
 
         int k =0;
         for(int i =0;i<word.length();i++)
@@ -29,6 +29,21 @@ class Solution {
         }
 
         return count;
+
+        */
+
+        int count =0;
+        for(String x : patterns)
+        {
+            if(word.contains(x))
+            {
+                count++;
+
+            }
+        }
+
+        return count;
+        
         
     }
 }
