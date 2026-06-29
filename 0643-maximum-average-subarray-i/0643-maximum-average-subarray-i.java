@@ -27,6 +27,6 @@ class Solution {
 
         //return double((double)max/(double)k);
 
-        return (double)((double)max/(double)k);
+        return (double)max/k;
     }
 }
