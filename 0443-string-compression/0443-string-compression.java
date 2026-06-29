@@ -50,6 +50,9 @@ class Solution {
 
 */
 
+
+/* /// TWO POINTER 
+
         StringBuffer sb = new StringBuffer();
 
         int i =0; int j=0;
@@ -96,6 +99,55 @@ class Solution {
             chars[k]=sb.charAt(k);
         }
         return len;
+
+        */
+
+
+        /// TIME COMPLEXITY IMPROVE BY 0(N): 
+
+        StringBuffer sb = new StringBuffer();
+
+        char cur = chars[0];
+        int count =0;
+
+        int i =0;
+
+        while(i<chars.length)
+        {
+            if(chars[i]==cur)
+            {
+                count++;
+                i++;
+            }
+            else
+            {
+                sb.append(cur);
+                if(count>1)
+                {
+                    sb.append(count);
+                }
+                cur = chars[i];
+                count=0;
+            }
+        }
+
+// after reaching index: 
+                 sb.append(cur);
+                if(count>1)
+                {
+                    sb.append(count);
+                }
+
+              int len = sb.length();
+
+        for(int k =0;k<len;k++)
+        {
+            chars[k]=sb.charAt(k);
+        }
+
+
+                return len;
+                
 
     }
 }
