@@ -9,6 +9,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
@@ -39,6 +40,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0001-two-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -142,6 +144,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
