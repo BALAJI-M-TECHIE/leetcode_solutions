@@ -20,6 +20,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1929-concatenation-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -120,6 +121,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1108-defanging-an-ip-address](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
