@@ -16,6 +16,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -69,6 +70,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0125-valid-palindrome](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0443-string-compression/) | Medium |
@@ -105,6 +107,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0007-reverse-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
