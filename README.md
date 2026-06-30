@@ -51,6 +51,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -132,6 +133,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0389-find-the-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0392-is-subsequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0541-reverse-string-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0541-reverse-string-ii/) | Easy |
@@ -229,5 +231,6 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
