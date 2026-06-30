@@ -16,6 +16,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
@@ -46,6 +47,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
@@ -226,5 +228,6 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
