@@ -2,7 +2,7 @@ class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
 
 
-        /*
+        
 
         int left = 0;
         int right =0;
@@ -14,18 +14,22 @@ class Solution {
               if(nums[right]==0)
               {
                 max = Math.max(right-left,max); 
-                left=right;
+                left=right+1;
+                right++;
                              
               }
+               else
+               {right++;
+               }
                
-               right++;
                  
         }
 
-        return Math.max(right-1-left,max); 
+        return Math.max(right-left,max); 
 
-        */
+        
 
+/*
 
         int count =0;
         int max=Integer.MIN_VALUE;
@@ -45,6 +49,7 @@ class Solution {
         }
 
         return Math.max(count,max);
+        */
         
     }
 }
