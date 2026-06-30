@@ -22,6 +22,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -57,6 +58,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0389-find-the-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -180,6 +182,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
