@@ -54,6 +54,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -139,6 +140,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0541-reverse-string-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -233,4 +235,5 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
