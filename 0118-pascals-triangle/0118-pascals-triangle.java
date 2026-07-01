@@ -25,14 +25,14 @@ class Solution {
             return 1;
         }
 
-        int sum = 1;
+        long sum = 1;
 
         for(int i =0;i<r;i++)
         {
             sum = (sum*(n-i))/(1+i);
         }
 
-        return sum;
+        return (int)sum;
 
 
 
