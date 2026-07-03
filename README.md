@@ -19,6 +19,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0119-pascals-triangle-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
@@ -255,6 +256,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0118-pascals-triangle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
