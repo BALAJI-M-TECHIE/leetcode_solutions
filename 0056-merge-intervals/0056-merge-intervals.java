@@ -10,7 +10,7 @@ class Solution {
          int first = 0;
        
 
-         
+         // BRUTE METHOD :
 
         for(int i = 0;i<intervals.length;i++)
         {
