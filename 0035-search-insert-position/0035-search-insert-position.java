@@ -15,6 +15,7 @@ class Solution {
             return arr.length;
         }
         
+        /*
         while(left<=right)
         {
             
@@ -43,5 +44,20 @@ class Solution {
        return  mid;
     }
     return mid+1;
+
+    */
+
+    for(int i = 0;i<arr.length;i++)
+    {
+        if(arr[i]==target)
+        {
+            return i;
+        }
+        else if(target<arr[i])
+        {
+            return i;
+        }
+    }
+    return 1;
     }
 }
