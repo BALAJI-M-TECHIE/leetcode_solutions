@@ -10,6 +10,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0015-3sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -235,6 +236,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
