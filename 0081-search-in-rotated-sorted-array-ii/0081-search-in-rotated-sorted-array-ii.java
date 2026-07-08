@@ -10,17 +10,19 @@ class Solution {
         {
             int mid = left+((right - left)/2);
 
-            if(nums[left]==nums[right] && nums[left]!=target)
+             if(nums[mid] == target)
+            {
+                return true;
+            }
+
+            if(nums[left]==nums[right] && nums[left]== nums[mid])
             {
                 left++;
                 right-- ; 
                 continue;
             }
 
-            if(nums[mid] == target)
-            {
-                return true;
-            }
+           
             // right sort check
             else if(nums[mid]<=nums[right] )
             {
