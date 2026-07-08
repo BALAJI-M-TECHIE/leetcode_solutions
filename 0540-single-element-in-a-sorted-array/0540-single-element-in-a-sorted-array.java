@@ -15,6 +15,6 @@ class Solution {
             }
         }
         
-        return nums[i-2];
+        return nums[nums.length-1];
     }
 }
