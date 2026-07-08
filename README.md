@@ -10,6 +10,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0015-3sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
@@ -240,6 +241,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
