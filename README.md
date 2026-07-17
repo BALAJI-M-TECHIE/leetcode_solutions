@@ -50,6 +50,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -211,6 +212,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0240-search-a-2d-matrix-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2373-largest-local-values-in-a-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
 | [3033-modify-the-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3033-modify-the-matrix/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
@@ -269,6 +271,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
