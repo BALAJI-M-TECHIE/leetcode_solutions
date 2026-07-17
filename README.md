@@ -34,6 +34,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -124,6 +125,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0048-rotate-image](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2373-largest-local-values-in-a-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2373-largest-local-values-in-a-matrix/) | Easy |
@@ -259,6 +262,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
