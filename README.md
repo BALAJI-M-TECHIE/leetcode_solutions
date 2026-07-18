@@ -54,6 +54,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1901-find-a-peak-element-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1929-concatenation-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2206-divide-array-into-equal-pairs](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -154,6 +155,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1323-maximum-69-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1518-water-bottles](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1518-water-bottles/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -236,6 +238,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3918-sum-of-primes-between-number-and-its-reverse/) | Medium |
