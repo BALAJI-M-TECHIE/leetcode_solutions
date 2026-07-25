@@ -104,6 +104,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0151-reverse-words-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0443-string-compression/) | Medium |
@@ -257,6 +258,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,5 +322,10 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
