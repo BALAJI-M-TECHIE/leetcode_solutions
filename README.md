@@ -106,6 +106,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0392-is-subsequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0541-reverse-string-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -311,4 +312,8 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
