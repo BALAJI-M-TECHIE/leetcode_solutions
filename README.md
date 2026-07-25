@@ -127,6 +127,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1288-remove-covered-intervals](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
