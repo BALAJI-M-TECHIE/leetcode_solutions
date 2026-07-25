@@ -253,6 +253,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -315,5 +316,6 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
