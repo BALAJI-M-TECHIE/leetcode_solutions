@@ -39,6 +39,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0485-max-consecutive-ones](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -124,6 +125,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0242-valid-anagram](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0389-find-the-difference/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -157,6 +159,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1323-maximum-69-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1518-water-bottles](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1518-water-bottles/) | Easy |
