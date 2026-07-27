@@ -99,6 +99,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0015-3sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -329,6 +330,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
