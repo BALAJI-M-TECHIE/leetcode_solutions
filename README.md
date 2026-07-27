@@ -47,6 +47,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -129,6 +130,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Divide and Conquer
@@ -294,6 +296,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
