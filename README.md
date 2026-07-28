@@ -79,6 +79,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -105,6 +106,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0125-valid-palindrome](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -332,6 +334,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0328-odd-even-linked-list/) | Medium |
