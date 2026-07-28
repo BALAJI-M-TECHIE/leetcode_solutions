@@ -156,6 +156,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
@@ -267,6 +268,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -332,6 +334,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
