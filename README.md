@@ -18,6 +18,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0066-plus-one](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0075-sort-colors/) | Medium |
@@ -160,6 +161,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0007-reverse-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0204-count-primes/) | Medium |
