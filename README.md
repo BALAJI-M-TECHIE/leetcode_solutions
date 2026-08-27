@@ -189,6 +189,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0125-valid-palindrome/) | Easy |
@@ -348,5 +349,10 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
