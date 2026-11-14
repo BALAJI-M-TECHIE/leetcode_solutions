@@ -27,7 +27,7 @@ class Solution
 
             }
 
-            Collections.sort(left_al);
+            //Collections.sort(left_al);
         
 
             int drop_count = 0;
