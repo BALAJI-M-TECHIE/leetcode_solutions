@@ -66,6 +66,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3033-modify-the-matrix](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3033-modify-the-matrix/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3668-restore-finishing-order/) | Easy |
@@ -246,6 +247,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +335,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0438-find-all-anagrams-in-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
