@@ -1,24 +1,18 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-
-  /*    int[] prefix_sum = new int[arr.length+1];
+/*
+      int[] prefix_sum = new int[arr.length+1];
         prefix_sum[0]=0;
-        int odd_sum = 0;
+        
         for(int i = 0 ;i<arr.length;i++)
         {
             int num = prefix_sum[i]+arr[i];
             prefix_sum[i+1]=num;
-            if(num%2==1)
-            {
-                odd_sum++;
-            }
+            
             
         }
- 
-*/
-        
 
-         /*
+            long odd_sum = 0;
         for(int i = 0 ; i<prefix_sum.length;i++)
         {
             for(int j = 1;j<=arr.length;j++)
@@ -37,10 +31,10 @@ class Solution {
 
             }
         }
-*/
 
 
-        //return (odd_sum*odd_sum)%(1000000007) ;
+
+        return (int)((odd_sum)%(1000000007)) ; */
 
         
         int even = 1;
@@ -63,6 +57,6 @@ class Solution {
             }
         }
 
-  return (int)(odd_count%(1000000007));
+  return (int)(odd_count%(1000000007)); 
     }
 }
