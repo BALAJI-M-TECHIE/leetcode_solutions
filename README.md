@@ -51,6 +51,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -175,6 +176,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1323-maximum-69-number](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1518-water-bottles](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1518-water-bottles/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -246,6 +248,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Counting Sort
@@ -327,6 +330,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
