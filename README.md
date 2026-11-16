@@ -215,6 +215,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3110-score-of-a-string/) | Easy |
 ## Simulation
@@ -226,6 +227,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1929-concatenation-of-array](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
