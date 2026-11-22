@@ -215,6 +215,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [1773-count-items-matching-a-rule](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2942-find-words-containing-character](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2942-find-words-containing-character/) | Easy |
