@@ -182,6 +182,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2469-convert-the-temperature](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3115-maximum-prime-difference/) | Medium |
+| [3360-stone-removal-game](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -230,6 +231,7 @@ A personal collection of LeetCode questions solved to enhance problem-solving an
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [3360-stone-removal-game](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/BALAJI-M-TECHIE/leetcode_solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
